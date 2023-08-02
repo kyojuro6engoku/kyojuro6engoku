@@ -1,7 +1,7 @@
 
 # Hi there, I'm [AMAL NATH](https://github.com/kyojuro6engoku/kyojuro6engoku) 👋
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-YourName-black)](https://dev.to/yourhandle)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-gold)](https://t.me/Unni0240)
 
 ## About Me
 
