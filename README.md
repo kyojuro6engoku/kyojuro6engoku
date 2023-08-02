@@ -30,8 +30,6 @@ You can include your GitHub stats using shields.io or other badges to show your 
 Provide contact information or links to your social media profiles so that others can connect with you.
 
 - Email: amalnath0600@email.com
-- Telegram: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Telegram: [ƁσƬ](https://t.me/Unni0240)
 
 ---
-
-Feel free to customize the template to best represent yourself and your skills. Including images, badges, and links can make your profile README engaging and visually appealing. Update it regularly to reflect your latest projects and contributions, and don't forget to showcase your personality to make it stand out. Happy coding!
