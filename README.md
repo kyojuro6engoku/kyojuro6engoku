@@ -34,4 +34,4 @@ Provide contact information or links to your social media profiles so that other
 
 ---
 
-[![just](https://telegra.ph/file/54636b2a5c8927312bb53.jpg)](https://telegra.ph/file/ceed2cb8ca9f0b5e426f2.mp4) "mikey")
+
