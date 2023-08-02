@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @kyojuro6engoku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kyojuro6engoku/kyojuro6engoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Creating a well-structured and informative README.md for your GitHub profile is an excellent way to introduce yourself, showcase your skills, and provide links to your projects and social media. Here's a template to get you started:
 
-# Hi there, I'm [AMAL NATH]([https://github.com/kyojuro6engoku/kyojuro6engoku])
+# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourName-9cf)](https://twitter.com/yourhandle)
+[![Dev.to](https://img.shields.io/badge/Dev.to-YourName-black)](https://dev.to/yourhandle)
 
 ## About Me
 
