@@ -1,7 +1,7 @@
 
 # Hi there, I'm [AMAL NATH](https://github.com/kyojuro6engoku/kyojuro6engoku) 👋
 
-[![TELEGRAM](https://img.shields.io/badge/TELE,GRAM-blue)](https://t.me/Unni0240)
+[![TELEGRAM](https://img.shields.io/badge/TELE.GRAM-blue)](https://t.me/Unni0240)
 
 ## About Me
 
